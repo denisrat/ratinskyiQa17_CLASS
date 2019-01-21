@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df0243c3-8f74-4a83-ad26-4a32b0e8fb78" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/QA17class/.gradle/" />
+    <ignored path="$PROJECT_DIR$/QA17class/build/" />
+    <ignored path="$PROJECT_DIR$/QA17class/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/QA17class">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/QA17class">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="QA17class" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ratinskyiQa17_CLASS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA17class/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA17class/src/test/java/Openchrom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QA17class/src/test/java/OpenChromeBrowser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files \Git" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/QA17class/src/test/java/Openchrom.java" />
+        <option value="$PROJECT_DIR$/QA17class/build.gradle" />
+        <option value="$PROJECT_DIR$/QA17class/src/test/java/OpenChromeBrowser.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="100" />
+    <option name="y" value="-15" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QA17class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA17class" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="QA17class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA17class" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QA17class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA17class" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QA17class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA17class" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QA17class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547822788686" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.OpenChromeBrowser">
+    <configuration name="QA17class [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/QA17class" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenChromeBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA17class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenChromeBrowser" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenChromeBrowser.chromeBrowserTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA17class_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenChromeBrowser" />
+      <option name="METHOD_NAME" value="chromeBrowserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenChromeBrowser.chromeBrowserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA17class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenChromeBrowser" />
+      <option name="METHOD_NAME" value="chromeBrowserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Openchrom" type="TestNG" nameIsGenerated="true">
+      <module name="QA17class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Openchrom" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Openchrom.chromTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA17class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Openchrom" />
+      <option name="METHOD_NAME" value="chromTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OpenChromeBrowser" />
+        <item itemvalue="TestNG.OpenChromeBrowser.chromeBrowserTest" />
+        <item itemvalue="TestNG.OpenChromeBrowser.chromeBrowserTest (1)" />
+        <item itemvalue="Gradle.QA17class [dependencies]" />
+        <item itemvalue="TestNG.Openchrom.chromTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0243c3-8f74-4a83-ad26-4a32b0e8fb78" name="Default Changelist" comment="" />
+      <created>1547744837224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547744837224</updated>
+      <workItem from="1547744840336" duration="3215000" />
+      <workItem from="1547749221418" duration="52000" />
+      <workItem from="1547749372822" duration="1218000" />
+      <workItem from="1547750673183" duration="965000" />
+      <workItem from="1547754939721" duration="1035000" />
+      <workItem from="1547755996327" duration="643000" />
+      <workItem from="1547756660143" duration="1143000" />
+      <workItem from="1547802984118" duration="798000" />
+      <workItem from="1547804020350" duration="3777000" />
+      <workItem from="1547808778736" duration="1188000" />
+      <workItem from="1547812350983" duration="1241000" />
+      <workItem from="1547813641185" duration="895000" />
+      <workItem from="1547814946012" duration="537000" />
+      <workItem from="1547815528483" duration="2092000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 14h 14m 33s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 14h 36m 20s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 14h 44m 22s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 14h 46m 01s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 14h 56m 47s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 14h 57m 09s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 15h 04m 48s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 16h 46m 00s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.18 at 16h 46m 12s.xml">
+      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenChromeBrowser - 2019.01.18 at 16h 46m 37s.xml">
+      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18799000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5011442" side_tool="true" weight="0.27313432" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.64164305" visible="true" weight="0.37785235" />
+      <window_info id="Structure" order="6" sideWeight="0.35835695" side_tool="true" visible="true" weight="0.37785235" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3297546" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50074625" side_tool="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3297546" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3297546" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49925372" weight="0.4957507" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.398773" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3297546" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49925372" weight="0.3297546" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.17181209" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32985073" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24963924" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.24029851" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3297546" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3297546" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/QA17class/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.141.59/8950c1557ead2cdba4fdb9ba6f107dce3b5f1520/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/service/DriverService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA17class/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA17class/src/test/java/Openchrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA17class/src/test/java/OpenChromeBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>QA17class</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

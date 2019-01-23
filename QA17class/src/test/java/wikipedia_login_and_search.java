@@ -23,6 +23,8 @@ public class wikipedia_login_and_search {
         wd.findElement(By.name("wpName")).sendKeys("denis99r");
         wd.findElement(By.id("wpPassword1")).sendKeys("1999dmut");
         wd.findElement(By.id("wpLoginAttempt")).click();
+        wd.findElement(By.name("search")).sendKeys("java");
+        wd.findElement(By.name("go")).click();
 
         //wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
         //wd.findElement(By.id("pt-logout")).click();

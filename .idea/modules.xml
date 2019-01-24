@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA17class.iml" filepath="$PROJECT_DIR$/.idea/modules/QA17class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA17class_main.iml" filepath="$PROJECT_DIR$/.idea/modules/QA17class_main.iml" group="QA17class" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA17class_test.iml" filepath="$PROJECT_DIR$/.idea/modules/QA17class_test.iml" group="QA17class" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-project.iml" filepath="$PROJECT_DIR$/.idea/modules/second-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/second-project_main.iml" group="second-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/second-project_test.iml" group="second-project" />
     </modules>
   </component>
 </project>

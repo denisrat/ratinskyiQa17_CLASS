@@ -12,7 +12,18 @@
             <option value="$PROJECT_DIR$/QA17class" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/second-project" />
+        <option name="gradleHome" value="C:/Tools/gradle-5.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/second-project" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>

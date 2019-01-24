@@ -2,8 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="gg.second-project.main" target="1.8" />
+      <module name="gg.second-project.test" target="1.8" />
       <module name="QA17class_main" target="1.8" />
       <module name="QA17class_test" target="1.8" />
+      <module name="second-project_main" target="1.8" />
+      <module name="second-project_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
